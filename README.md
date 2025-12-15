@@ -13,8 +13,6 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="StageVAR">
 </p>
 
-:star: If StageVAR is helpful to your projects, please help star this repo. Thanks! :hugs:
-
 <div align="center">
     <img src="assets/stagevar.jpg" width="800px" alt="Overall Framework of StageVAR"/>
     <br>
@@ -27,3 +25,7 @@
 
 
 ## 📊 Quantitative Results 
+
+
+
+:star: If StageVAR is helpful to your projects, please help star this repo. Thanks! :hugs:
