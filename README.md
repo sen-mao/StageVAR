@@ -21,7 +21,7 @@
 </div>
 
 
-:star: If InterLCM is helpful to your images or projects, please help star this repo. Thanks! :hugs:
+:star: If StageVAR is helpful to your images or projects, please help star this repo. Thanks! :hugs:
 
 ---
 
