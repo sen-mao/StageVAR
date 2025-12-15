@@ -10,11 +10,23 @@
 </div>
 
 <p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" alt="DiverseVAR">
+    <img src="https://i.imgur.com/waxVImv.png" alt="StageVAR">
 </p>
 
 
-<img src="assets/stagevar.jpg" width="800px"/>
+<div align="center">
+    <img src="assets/stagevar.jpg" width="800px" alt="Overall Framework of StageVAR"/>
+    <br>
+    <em>Figure 1. Overview of the proposed StageVAR framework. We retain the original VAR inference process for the semantic and structure establishment stages, while exploiting semantic irrelevance and low-rank properties in the fidelity refinement stage to accelerate inference.</em>
+</div>
 
 
-:star: If InterLCM is helpful to your images or projects, please help star this repo. Thanks! :hugs: 
+:star: If InterLCM is helpful to your images or projects, please help star this repo. Thanks! :hugs:
+
+---
+
+## 🖼️ Qualitative Results
+
+
+
+## 📊 Quantitative Results 
