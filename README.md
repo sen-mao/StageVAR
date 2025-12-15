@@ -31,6 +31,13 @@
 
 ## 📊 Quantitative Results 
 
+<details>
+<summary>Quantitative Results on the GenEval and DPG benchmarks</summary>
+
+<p align="center">
+  <img src="assets/metrics.jpg" width="800"/>
+</p>
+</details>
 
 
 :star: If StageVAR is helpful to your projects, please help star this repo. Thanks! :hugs:
