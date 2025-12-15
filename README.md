@@ -22,6 +22,11 @@
 
 ## 🖼️ Qualitative Results
 
+<div align="center">
+    <img src="assets/results.jpg" alt="DiverseVAR Qualitative Results">
+    <br>
+    <em>Figure 2. Qualitative comparison with the vanilla Infinity-2B, Infinity-8B, and STAR models (1st, 3rd, and 5th rows). Our StageVAR (2nd, 4th, and 6th rows) achieves a 3.4x, 2.7x, and 1.74x speedup while maintaining performance.</em>
+</div>
 
 
 ## 📊 Quantitative Results 
