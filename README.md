@@ -12,3 +12,9 @@
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="DiverseVAR">
 </p>
+
+
+<img src="assets/stagevar.jpg" width="800px"/>
+
+
+:star: If InterLCM is helpful to your images or projects, please help star this repo. Thanks! :hugs: 
