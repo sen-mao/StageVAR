@@ -9,6 +9,8 @@
 <sup>1</sup> Nankai University, <sup>2</sup> City University of Hong Kong (Dongguan), China, <sup>3</sup> MBZUAI, <sup>4</sup> Linkoping University
 </div>
 
+:star: If StageVAR is helpful to your images or projects, please help star this repo. Thanks! :hugs:
+
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="StageVAR">
 </p>
@@ -19,9 +21,6 @@
     <br>
     <em>Figure 1. Overview of the proposed StageVAR framework. We retain the original VAR inference process for the semantic and structure establishment stages, while exploiting semantic irrelevance and low-rank properties in the fidelity refinement stage to accelerate inference.</em>
 </div>
-
-
-:star: If StageVAR is helpful to your images or projects, please help star this repo. Thanks! :hugs:
 
 
 ## 🖼️ Qualitative Results
