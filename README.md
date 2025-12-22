@@ -39,5 +39,17 @@
 </p>
 </details>
 
+## 📄 Citation
+
+Please cite our paper if you find this work useful for your research:
+
+```bibtex
+@article{li2025stagevar,
+  title={StageVAR: Stage-Aware Acceleration for Visual Autoregressive Models},
+  author={Li, Senmao and Wang, Kai and Khan, Salman and Khan, Fahad Shahbaz and Yang, Jian and Wang, Yaxing},
+  journal={arXiv preprint arXiv:2512.16483},
+  year={2025}
+}
+```
 
 :star: If StageVAR is helpful to your projects, please help star this repo. Thanks! :hugs:
