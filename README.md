@@ -2,6 +2,9 @@
 <h1> 🌟 StageVAR </h1>
 <h3>Stage-Aware Acceleration for Visual Autoregressive Models</h3>
 
+[![arXiv](https://img.shields.io/badge/arXiv-StageVAR-<COLOR>.svg)](https://arxiv.org/abs/2512.16483) [![arXiv](https://img.shields.io/badge/paper-StageVAR-b31b1b.svg)](https://arxiv.org/pdf/2512.16483) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sen-mao/StageVAR)
+
+
 [Senmao Li](https://sen-mao.github.io/)<sup>1,3</sup>, [Kai Wang](https://wangkai930418.github.io/)<sup>2</sup>,
 [Salman Khan](https://salman-h-khan.github.io/)<sup>3</sup>, [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home)<sup>3,4</sup>, 
 [Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN)<sup>1</sup>, [Yaxing Wang](https://yaxingwang.github.io/)<sup>1</sup>,
